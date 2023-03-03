@@ -1,11 +1,9 @@
 import React from "react";
+import Nav from './Nav';
 
 const App=()=>{
-    return(<>
-        <div>App</div>
-        <h1>hi rahul sir</h1>
-        <h2>bye</h2>
-        </>
+    return(
+       <Nav/>    
     )
 }
 export default App
