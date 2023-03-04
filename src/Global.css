@@ -1,0 +1,31 @@
+.menuBlock ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menuBlock ul li a{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    text-decoration: none;
+    padding: 10px 100px;
+    color: white;
+}
+.menuBlock ul li{
+    list-style: none;
+
+}
+.mainBlock{
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    background-color: rgba(0, 94, 255, 0.386);
+
+}
+
+img{
+    width: 165px;
+    height: 70px;
+}
+body{
+    background-color: rgb(255, 192, 192);
+}
