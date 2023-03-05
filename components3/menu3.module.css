@@ -1,0 +1,23 @@
+#menuBlock3 ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#menuBlock3 ul li{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 150px; 
+     
+}
+
+
+#menuBlock3 ul li a{
+    text-decoration: none;
+    color: white;
+}
+#menuBlock3 ul li input{
+    padding-right: 140px;
+    margin: 0px -100px 0px 80px;
+    
+}
