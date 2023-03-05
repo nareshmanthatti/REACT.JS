@@ -1,0 +1,17 @@
+#menuBlock5 ul{
+    display: flex;
+        justify-content: space-around;
+        padding: 50px;
+    }
+    
+    #menuBlock5 ul li{
+         list-style: none;
+         width: 200px;
+    }
+    
+    
+    #menuBlock5 ul li a{
+        text-decoration: none;
+        color: black;
+    }
+  
