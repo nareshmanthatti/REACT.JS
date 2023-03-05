@@ -1,0 +1,21 @@
+#menuBlock1 ul{
+display: flex;
+    justify-content: space-around;
+    padding: 150px;
+}
+
+#menuBlock1 ul li{
+     list-style: none;
+     width: 200px;
+}
+
+
+#menuBlock1 ul li a{
+    text-decoration: none;
+    color: white;
+}
+#menuBlock1 ul li input{
+    padding-right: 100px;
+    margin: 0px 0px 0px -100px;
+    
+}
