@@ -1,0 +1,22 @@
+#menuBlock4 ul{
+    display: flex;
+    justify-content: space-between;
+    padding: -36px;
+    
+}
+
+#menuBlock4 ul li{
+   list-style: none;
+   width: 200px;  
+}
+
+
+#menuBlock4 ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#menuBlock4 ul li input{
+    padding-right: 140px;
+    margin: 0px -100px 0px 80px;
+    
+}

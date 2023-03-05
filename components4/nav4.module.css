@@ -1,0 +1,7 @@
+#navBlock4{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    height: 75px;
+    align-items: center;
+}
