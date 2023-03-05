@@ -1,0 +1,7 @@
+#navBlock{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(24, 88, 206, 0.847);
+    height: 75px;
+    align-items: center;
+}
