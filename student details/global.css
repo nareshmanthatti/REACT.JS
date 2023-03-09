@@ -1,0 +1,95 @@
+.firstblock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.mainBlock{
+    display: flex;
+    justify-content: space-around;
+}
+
+.secondBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.thirdBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.fourthBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    background-color: aqua;
+}
+
+.fifthBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.sixthBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.seventhBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.eightBlock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ margin: 50px; 
+   background-color: aqua;
+}
+
+body{
+    background-color: grey;
+}
+
+
