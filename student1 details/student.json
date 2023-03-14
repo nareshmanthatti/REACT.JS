@@ -1,0 +1,61 @@
+[
+    {
+          "studentName":"mani",
+          "gender":"female",
+          "class":"5th std",
+          "section":"A",
+          "address":"pinnya industry",
+          "phoneNumber":[78954236452,4537867312,4687454665],
+          "photo":"https://tse4.mm.bing.net/th?id=OIP.Qbt_mbMUyan1DpvcNbA27AHaLT&pid=Api&P=0"
+    },
+    {
+        "studentName":"naresh",
+        "gender":"male",
+        "class":"8th std",
+        "section":"B",
+        "address":"vijaya nagar",
+        "phoneNumber":[78954436452,8537867312,7887454665],
+        "photo":"https://tse4.mm.bing.net/th?id=OIP.yHLJ_lUGsyuq1jzKZ0npsQHaMm&pid=Api&P=0"
+  },
+  {
+    "studentName":"chanamma",
+    "gender":"female",
+    "class":"6th std",
+    "section":"C",
+    "address":"rajajinagar",
+    "phoneNumber":[7895423462,8537267312,467954665],
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.kMo3gjKIJ4-1rzI03XVSlQHaLE&pid=Api&P=0"
+},
+{
+    "studentName":"nanda",
+    "gender":"female",
+    "class":"ukg",
+    "section":"A",
+    "address":"gadag",
+    "phoneNumber":[99954236452,6337867312,4687446665],
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.bFo-l8DCl6wJfbu8NDP2rwHaH8&pid=Api&P=0"
+},
+{
+    "studentName":"mohan",
+    "gender":"male",
+    "class":"9th std",
+    "section":"D",
+    "address":"shivmogga",
+    "phoneNumber":[7895456452,4537157312,4683754665],
+    "photo":"https://tse1.mm.bing.net/th?id=OIP.ahOOqwZnD8GIL7rjXNUc_AHaKd&pid=Api&P=0"
+},
+{
+    "studentName":"arun",
+    "gender":"male",
+    "class":"6th std",
+    "section":"E",
+    "address":"jaya nagar",
+    "phoneNumber":[788894236452,4537864312,4688854665],
+    "photo":"https://tse2.mm.bing.net/th?id=OIP.oHuLcB0aTh7GI7ZqMyxE8AHaLG&pid=Api&P=0"
+}
+
+
+
+
+
+]
